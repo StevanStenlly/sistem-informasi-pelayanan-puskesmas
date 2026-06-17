@@ -46,7 +46,7 @@ Seluruh data screening, hasil pemeriksaan, dan resep tersimpan dalam rekam medis
 
 1. Clone atau download repository ini
 2. Pindahkan folder project ke `htdocs` (jika menggunakan XAMPP)
-3. Buat database baru di phpMyAdmin, lalu import file `.sql` (jika tersedia di project ini)
+3. Buat database baru di phpMyAdmin, lalu import file `db_puskemas.sql` di folder database
 4. Sesuaikan konfigurasi koneksi database pada file konfigurasi PHP sesuai kredensial database lokal kamu
 5. Jalankan Apache dan MySQL melalui XAMPP Control Panel
 6. Akses sistem melalui `http://localhost/nama-folder-project`
