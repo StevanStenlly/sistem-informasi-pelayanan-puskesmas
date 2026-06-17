@@ -30,10 +30,10 @@ Seluruh data screening, hasil pemeriksaan, dan resep tersimpan dalam rekam medis
 ## Tampilan Aplikasi
 
 ![Halaman Login](screenshots/halaman-login.png)
-![Dashboard Pasien](screenshots/pendaftaran-pasien.png)
-![Dashboard Apoteker](screenshots/halaman-screening.png)
-![Dashboard Dokter](screenshots/halaman-pemeriksaan.png)
-![Dashboard Apoteker](screenshots/halaman-obat.png)
+![Pasien](screenshots/pendaftaran-pasien.png)
+![screening](screenshots/halaman-screening.png)
+![Dokter](screenshots/halaman-pemeriksaan.png)
+![Apoteker](screenshots/halaman-obat.png)
 
 ## Tech Stack
 
