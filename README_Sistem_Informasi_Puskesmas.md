@@ -29,12 +29,11 @@ Seluruh data screening, hasil pemeriksaan, dan resep tersimpan dalam rekam medis
 
 ## Tampilan Aplikasi
 
-> Screenshot di bawah akan otomatis tampil setelah file gambar diupload ke folder `screenshots/` pada repository ini. Sesuaikan nama file di bawah dengan nama file screenshot asli kamu.
-
 ![Halaman Login](screenshots/halaman-login.png)
-![Dashboard Pasien](screenshots/dashboard-pasien.png)
-![Dashboard Dokter](screenshots/dashboard-dokter.png)
-![Dashboard Apoteker](screenshots/dashboard-apoteker.png)
+![Pasien](screenshots/pendaftaran-pasien.png)
+![screening](screenshots/halaman-screening.png)
+![Dokter](screenshots/halaman-pemeriksaan.png)
+![Apoteker](screenshots/halaman-obat.png)
 
 ## Tech Stack
 
