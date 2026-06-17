@@ -1,0 +1,36 @@
+<!-- ======= Sidebar ======= -->
+<aside id="sidebar" class="sidebar">
+
+  <ul class="sidebar-nav" id="sidebar-nav">
+
+    <li class="nav-item">
+      <a class="nav-link collapsed" href="../Dashboard/index.php">
+        <i class="bi bi-grid"></i>
+        <span>Dashboard</span>
+      </a>
+    </li><!-- End Dashboard Nav -->
+
+    <li class="nav-item">
+      <a class="nav-link " href="tabel-hasil-pemeriksaan.php">
+        <i class="bi bi-layout-text-window-reverse"></i>
+        <span>Kelola Hasil Pemeriksaan</span>
+      </a>
+    </li>
+
+    <li class="nav-item">
+      <a class="nav-link collapsed" href="../Kelola_RM/tabel-rm.php">
+        <i class="bi bi-layout-text-window-reverse"></i>
+        <span>Kelola Rekam Medis</span>
+      </a>
+    </li>
+
+    <li class="nav-item">
+      <a class="nav-link collapsed" href="../Profil_Dokter/users-profile.php">
+        <i class="bi bi-person"></i>
+        <span>Profil Dokter</span>
+      </a>
+    </li><!-- End Profile Page Nav -->
+
+  </ul>
+
+</aside><!-- End Sidebar-->

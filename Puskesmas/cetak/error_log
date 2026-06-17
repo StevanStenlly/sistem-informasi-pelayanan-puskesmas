@@ -1,0 +1,6 @@
+[18-Oct-2024 09:09:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/arud7841/public_html/Puskesmas/cetak/cetak-hp.php on line 77
+[18-Oct-2024 09:10:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/arud7841/public_html/Puskesmas/cetak/cetak-hp.php on line 76
+[18-Oct-2024 09:12:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/arud7841/public_html/Puskesmas/cetak/cetak-hp.php on line 76
+[18-Oct-2024 09:12:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/arud7841/public_html/Puskesmas/cetak/cetak-hp.php on line 76
+[18-Oct-2024 09:23:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/cetak/cetak-hp.php on line 125
+[18-Oct-2024 09:24:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/cetak/cetak-hp.php on line 125

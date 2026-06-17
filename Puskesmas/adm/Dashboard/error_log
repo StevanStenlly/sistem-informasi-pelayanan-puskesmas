@@ -1,0 +1,58 @@
+[30-Sep-2024 09:46:09 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'arud7841'@'tanggamus.iixcp.rumahweb.net' (using password: YES) in /home/arud7841/public_html/Puskesmas/adm/koneksi.php on line 5
+[30-Sep-2024 09:46:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[30-Sep-2024 09:46:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[30-Sep-2024 09:46:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 26
+[30-Sep-2024 09:46:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 27
+[01-Oct-2024 11:40:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'arud7841'@'tanggamus.iixcp.rumahweb.net' (using password: YES) in /home/arud7841/public_html/Puskesmas/adm/koneksi.php on line 5
+[01-Oct-2024 11:40:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[01-Oct-2024 11:40:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[01-Oct-2024 11:40:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 26
+[01-Oct-2024 11:40:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 27
+[01-Oct-2024 11:41:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'arud7841'@'tanggamus.iixcp.rumahweb.net' (using password: YES) in /home/arud7841/public_html/Puskesmas/adm/koneksi.php on line 5
+[01-Oct-2024 11:41:13 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[01-Oct-2024 11:41:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[01-Oct-2024 11:41:13 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 26
+[01-Oct-2024 11:41:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 27
+[01-Oct-2024 11:41:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'arud7841'@'tanggamus.iixcp.rumahweb.net' (using password: YES) in /home/arud7841/public_html/Puskesmas/adm/koneksi.php on line 5
+[01-Oct-2024 11:41:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[01-Oct-2024 11:41:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[01-Oct-2024 11:41:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 26
+[01-Oct-2024 11:41:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 27
+[01-Oct-2024 11:41:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'arud7841'@'tanggamus.iixcp.rumahweb.net' (using password: YES) in /home/arud7841/public_html/Puskesmas/adm/koneksi.php on line 5
+[01-Oct-2024 11:41:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[01-Oct-2024 11:41:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[01-Oct-2024 11:41:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 26
+[01-Oct-2024 11:41:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 27
+[01-Oct-2024 11:44:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'arud7841'@'tanggamus.iixcp.rumahweb.net' (using password: YES) in /home/arud7841/public_html/Puskesmas/adm/koneksi.php on line 5
+[01-Oct-2024 11:44:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[01-Oct-2024 11:44:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[01-Oct-2024 11:44:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 26
+[01-Oct-2024 11:44:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 27
+[17-Oct-2024 21:11:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[17-Oct-2024 21:11:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[17-Oct-2024 21:11:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 23
+[17-Oct-2024 21:11:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 24
+[17-Oct-2024 21:11:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[17-Oct-2024 21:11:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[17-Oct-2024 21:11:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 23
+[17-Oct-2024 21:11:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 24
+[17-Oct-2024 21:11:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[17-Oct-2024 21:11:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[17-Oct-2024 21:11:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 23
+[17-Oct-2024 21:11:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 24
+[17-Oct-2024 21:12:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[17-Oct-2024 21:12:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[17-Oct-2024 21:12:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 23
+[17-Oct-2024 21:12:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 24
+[17-Oct-2024 21:12:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[17-Oct-2024 21:12:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[17-Oct-2024 21:12:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 23
+[17-Oct-2024 21:12:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 24
+[17-Oct-2024 21:12:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[17-Oct-2024 21:12:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[17-Oct-2024 21:12:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 23
+[17-Oct-2024 21:12:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 24
+[17-Oct-2024 21:18:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 17
+[17-Oct-2024 21:18:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/header.php on line 18
+[17-Oct-2024 21:18:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 23
+[17-Oct-2024 21:18:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arud7841/public_html/Puskesmas/adm/Dashboard/index.php on line 24
